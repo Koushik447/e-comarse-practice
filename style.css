@@ -1020,6 +1020,10 @@ footer a:hover {
     table-layout: fixed;
     white-space: nowrap;
 }
+#cart table a{
+    text-decoration: none;
+    color: #088178;
+}
 
 #cart table img {
     width: 70px;
